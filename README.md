@@ -58,5 +58,5 @@ Trained in writing SQL queries for joins, aggregation, filtering, and database m
 To secure a Data Analyst role where I can apply analytical skills, build scalable data solutions, and contribute to business growth through data-driven insights.
 
 ## Contact
-LinkedIn: linkedin.com/in/anusuya-s-1aa138295
-Email: anusuya08059@gmail.com
+LinkedIn: https://linkedin.com/in/anusuya-s-1aa138295  
+Email: ansuya08059@gmail.com 
